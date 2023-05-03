@@ -651,13 +651,13 @@ wandb: WARNING ⚠️ wandb is deprecated and will be removed in a future releas
 
 Abaixo temos alguns resultados desse treinamento: 
 
-![mAP](assets\map.png)
+![mAP](assets/map.png)
 
-![precision](assets\precision.png)
+![precision](assets/precision.png)
 
 Temos também um exemplo de um batch das imagens que foram utilizadas no treinamento: 
 
-![batch](assets\batch.jpg)
+![batch](assets/batch.jpg)
 
 Como pode ser observado, nem todas as imagens possuiam um veículo inteiro, as vezes apenas parte dele estava contida
 
